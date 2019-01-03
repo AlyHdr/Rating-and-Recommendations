@@ -2,7 +2,7 @@
 
 ## Description
 This project was implemented to test different data mining algorithms to measure the 
-distance between users of a given data set 
+distance between users on a given data set of users and ratings for movies that they have watched.
 ## Implemented Algos
  * Manhatann Distance
  * Euclidean
